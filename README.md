@@ -1,1 +1,1 @@
-# This project will allow me to learn some of the basic skills involved in HTML. I will update this once I have finished the project
+# This project taught me how to use anchor elements, images, lists, and headings in HTML. It creates a webpage for two recipes. Each recipe has a picture, an unordered list of ingredients, and an ordered list of steps.
