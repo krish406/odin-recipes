@@ -1,0 +1,30 @@
+.header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.links{
+    font-size: 18px;
+}
+
+#quesadilla,
+#pasta
+{
+    background-color: antiquewhite;
+}
+
+#home{
+    background-color: rgb(245, 219, 205);
+}
+
+.subhead{
+    font-family: "Calibri", sans-serif;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(226, 97, 132)
+}
+
+ol{
+    font-size: 18px;
+}
